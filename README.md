@@ -12,9 +12,9 @@ Crear entorno virtual en app e instalar las librerías que podemos encontrar en 
 
 ```bash
 # activar entorno virtual
-Linux:
+# Linux:
 app$ source venvPr/bin/activate
-Windows:
+# Windows:
 app$ venvPr\Scripts\activate.bat
 (venvPr) app/code$ python -m pip install -r requirements.txt
 
